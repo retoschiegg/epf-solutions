@@ -1,0 +1,2 @@
+- By reverting the configuration file `azure_deploy_inferencing_pipeline.yaml` in the git repository to a stable version
+- By re-running a previous Azure Pipelines deployment job. In a production setting, it may also be possible to run a new pipeline while referencing a specific revision, for example a git tag
