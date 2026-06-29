@@ -1,3 +1,5 @@
 # epf-solutions
 
-Solutions for the electricity price forecasting application in the module MLOps for the CAS AI Operations.
+Solutions for the practical example of an electricity price forecasting application in the MLOps module.
+
+![Overview](overview.png)
